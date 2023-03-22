@@ -1,5 +1,1 @@
-import { Heading } from '@ignite-ui/react'
-
-export default function Home() {
-  return <Heading as="h1">Hello world, you fucking suck</Heading>
-}
+export { default } from './home'
